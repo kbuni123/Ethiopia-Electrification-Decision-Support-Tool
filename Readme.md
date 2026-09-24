@@ -1,4 +1,4 @@
-# Header
+
 # ⚡ Ethiopia Electrification Decision Support Tool
 ### Complete Electrification Analysis
 This tool is an **energy modeling and decision-support platform** built to explore Ethiopia’s 
